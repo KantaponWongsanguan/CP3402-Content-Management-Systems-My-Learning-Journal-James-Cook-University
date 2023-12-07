@@ -35,9 +35,20 @@ Overall, this knowledge helps me with technical expertise, decision-making insig
 
 ## Week 3
 ### Learning Activities & Resources
+The learning activities for this week are focused on WordPress CMS, which I find WordPress a little harder than utilizing Joomla. THis is likely because I may not have spent as much time on WordPress as what I spent on Joomla.
+The resources were the provided LinkedIn source and YouTubes.
+https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?u=2223545
+https://www.youtube.com/watch?v=jl8F4WglM3I&ab_channel=TylerMoore
 ### Estimated Hours
+2.5 hours on Youtube videos and provided resource on LinkedIn
 ### Content Insights
+The content insights from this week were that a thorough exploration of WordPress workflows, addressing different skill levels and project requirements. It starts with the basics, covering WordPress setup on live hosting, content management essentials, and progresses to more advanced topics like theme customization. Furthermore, it dives into professional site development, providing essential tools for client projects, such as staging environments and version control. Throughout the course, there's a strong focus on mastering WordPress intricacies, streamlining workflows, and applying these skills practically. Suited for beginners seeking structured learning and intermediates aiming to enhance their WordPress skills, this course is a comprehensive resource for improving efficiency and expertise in WordPress development.
 ### Career/Employability/Learning Insights
+I find the materials and courses on WordPress workflows acts as a gateway to career growth, developing skills for web development, digital marketing, and freelance opportunities. I think it emphasizes professionalism through client-centric tools, broadening job prospects across various roles. From the practical I gained application skills that strengthens employability in job marketsthat focus on client targetings. With the learning this week, it nurtures adaptability in the WordPress domain for me personally.
+
+## Week 3 Extension Group Interviews
+### Link to Google Doc [interview questions & answers]
+https://docs.google.com/document/d/17ORjLS1cUzSj8535HnHbVd4mFjqpX7O0BCHDC60z3ok/edit?usp=sharing
 
 ## Assignment CP3402 - Assignment 1 - Startup
 ### Assignment Activities
