@@ -50,6 +50,7 @@ I find the materials and courses on WordPress workflows acts as a gateway to car
 ### Link to Google Doc [interview questions & answers]
 https://docs.google.com/document/d/17ORjLS1cUzSj8535HnHbVd4mFjqpX7O0BCHDC60z3ok/edit?usp=sharing
 
+
 ## Assignment CP3402 - Assignment 1 - Startup
 ### Assignment Activities
 The assignment activities started with learning the basic steps for using both WordPress and Joomla 5 CMS through various sources provided by the lecturer and on the learning platform, YouTube. Then I began with conceptualizing ideas for my startup websites which aligns with my interest, in sport and interior design. Then I drafted website content, design structure, and target audience identification accordingly. 
@@ -80,7 +81,8 @@ Additionally, ensuring consistent branding elements across both websites illumin
 By building two different websites using WordPress and Joomla, I learned that it isn't just about creating web pages—it's a chance to learn some cool stuff with efficiency, different than crafting HTML, CSS, PHP, Javascript, etc. I get to become better at using these special website tools, which can open doors to jobs where I can utilize them to make websites. Overall, it's like learning how to build two kinds of houses. 
 In addition, I also learned how to make websites that people like to use with consideration of UX in mind. Lastly, I experienced the process of extensively exploring the community where people have made their remarks and shared in the form of great plug-ins and extensions to this CMS community, hence, I got to look up various interesting plug-ins that make CMSs even better.
 
-## Week 2
+
+## Week 4
 ### Learning Activities & Resources
 The learning activities this week were that in the material courses, the activities are that learning how to make websites that speak directly to people online. Kinda like building a house: starting by understanding what the people who'll visit want and need. Then, organize the important stuff and test out different layouts before finally creating and launching your site. Also discovering how to keep track of changes you make along the way, just like keeping a diary of all your work. Plus, there's a special lesson on moving websites from one place to another which taught how to import and export either templates or full websites.
 In addition, in the weekly lecture, we also learned how to create and deploy websites using content management systems, including creating and editing content, creating custom templates or themes, and performing site management. And lastly how to develop a WordPress workflow. 
