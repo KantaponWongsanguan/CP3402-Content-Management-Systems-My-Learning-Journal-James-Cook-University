@@ -80,9 +80,36 @@ Additionally, ensuring consistent branding elements across both websites illumin
 By building two different websites using WordPress and Joomla, I learned that it isn't just about creating web pages—it's a chance to learn some cool stuff with efficiency, different than crafting HTML, CSS, PHP, Javascript, etc. I get to become better at using these special website tools, which can open doors to jobs where I can utilize them to make websites. Overall, it's like learning how to build two kinds of houses. 
 In addition, I also learned how to make websites that people like to use with consideration of UX in mind. Lastly, I experienced the process of extensively exploring the community where people have made their remarks and shared in the form of great plug-ins and extensions to this CMS community, hence, I got to look up various interesting plug-ins that make CMSs even better.
 
+## Week 2
+### Learning Activities & Resources
+The learning activities this week were that in the material courses, the activities are that learning how to make websites that speak directly to people online. Kinda like building a house: starting by understanding what the people who'll visit want and need. Then, organize the important stuff and test out different layouts before finally creating and launching your site. Also discovering how to keep track of changes you make along the way, just like keeping a diary of all your work. Plus, there's a special lesson on moving websites from one place to another which taught how to import and export either templates or full websites.
+In addition, in the weekly lecture, we also learned how to create and deploy websites using content management systems, including creating and editing content, creating custom templates or themes, and performing site management. And lastly how to develop a WordPress workflow. 
+Resources
+https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/welcome?u=2223545
+https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?u=2223545
+https://www.linkedin.com/learning/mapping-the-modern-web-design-process/create-great-informational-user-experiences?u=2223545
+https://www.youtube.com/watch?v=VCHXCusltqI&ab_channel=GeekyScript
+https://learn.jcu.edu.au/ultra/courses/_167795_1/outline/edit/document/_7613495_1?courseId=_167795_1&view=content
+https://learn.jcu.edu.au/ultra/courses/_167795_1/outline/edit/document/_7613494_1?courseId=_167795_1&view=content
+
+### Estimated Hours
+6 hours
+### Content Insights
+I found the content in each topic delves into practical skills and strategies, providing valuable insights into creating effective websites, managing project versions, and seamlessly migrating WordPress sites. Especially in Web Design where understanding user needs and creating personas, organizing content priorities and testing design elements, implementing accessibility principles and optimizing for SEO, and launching and gathering feedback for continuous improvement.
+Version Control:
+
+### Career/Employability/Learning Insights
+This week, I've dived into the world of web design, learning how to speak directly to online audiences. Understanding user needs became one of the priorities of this week's learning. Like deciphering what each visitor desires before they ask. Crafting content hierarchies, workflow, and testing designs felt like building a puzzle that clicks perfectly. I also discovered how to utilize version control, not just for programming but for creativity; by tracking changes in my projects felt like keeping a detailed diary of my work, a safety net for every creative move. Plus, working on WordPress migration helps me improve time managment and productivity digitally. What I've gained this week feels like adding a new tool to my belt, increasing my versatility in this evolving digital landscape.
+
+### Practical Screenshot Description
+1. XAMPP Control Panel - The first Screenshot shows a running status [greenbar] on both Apache and MySQL. At first, I encountered a problem where I could not start MYSQL. I was able to solve this problem by checking the error Logs by clicking the "Logs" button next to the "Config" button. It showed that, in my running task I already have other MySQL running on Port 3306 due to the JCU learning module CP2404 Database Modelling also used the MySQL program. After stopping mySQL task in the background I was able to start running MySQL on the newly installed XAMPP.
+2. localhost/phpmyadmid/ - The second Screenshot shows a running localhost/php in admin interface. This represents a running XAMPP local host on my device. Additionally, I have also created a new database called 'newdb' which shows on the list of databases on the left side panel
+3. localhost/wordpress-6.4.4/ - The third Screenshot shows that I have installed WordPress-6.4.4 successfully on my device, integrating it with the XAMPP local host.
+4. localhost/phpmyadmin/ - THis last Screenshot shows a working WordPress that has been linked to newly created database, 'newdb', which shows a table of structured database within the WordPress site. This represents that my wordpress-6.4.4 which I have installed on my XAMPP local host has been properly configured with the new database. Hence, I now have a running localhost, web service, and a running  db within my device.
+
 
 # Template
-## Week 2
+## Week 4
 ### Learning Activities & Resources
 ### Estimated Hours
 ### Content Insights
