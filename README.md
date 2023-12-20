@@ -111,8 +111,17 @@ This week, I've dived into the world of web design, learning how to speak direct
 
 ## Week 5
 ### Learning Activities & Resources
+This week's activities mainly focus on Creating and customizing the WordPress child theme and its CSS. In addition, VVV was also introduced for the upcoming assignment.
+Resources
+https://www.youtube.com/watch?v=Wpc6FAsi7xI&ab_channel=FerdyKorpershoek
+https://www.linkedin.com/learning/wordpress-building-child-themes-3
+https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser
+https://www.youtube.com/watch?v=eshjwzu2JOc&ab_channel=VirtualAddiction
+VVV - https://www.youtube.com/watch?v=czMCO1w-xQU&ab_channel=AutomationStepbyStep
 ### Estimated Hours
+5 hours 
 ### Content Insights
+
 ### Career/Employability/Learning Insights
 
 # Template
