@@ -109,6 +109,11 @@ This week, I've dived into the world of web design, learning how to speak direct
 3. localhost/wordpress-6.4.4/ - The third Screenshot shows that I have installed WordPress-6.4.4 successfully on my device, integrating it with the XAMPP local host.
 4. localhost/phpmyadmin/ - THis last Screenshot shows a working WordPress that has been linked to newly created database, 'newdb', which shows a table of structured database within the WordPress site. This represents that my wordpress-6.4.4 which I have installed on my XAMPP local host has been properly configured with the new database. Hence, I now have a running localhost, web service, and a running  db within my device.
 
+## Week 5
+### Learning Activities & Resources
+### Estimated Hours
+### Content Insights
+### Career/Employability/Learning Insights
 
 # Template
 ## Week 4
