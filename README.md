@@ -125,6 +125,24 @@ The video transcripts and courses offered diverse perspectives, from understandi
 ### Career/Employability/Learning Insights
 The stuff I learned from these videos and courses is great for employability since they talked about things like making websites and using tools to make it easier. Like, they used this toy box idea to explain how computers can have pretend computers inside them. It's kind of like having a game within a game. The Vagrant that helps make these pretend computers without much hassle. Another video was about making websites look nice on phones and other stuff. They showed how to change things on a website using the browser and how that can be super handy for fixing things quick. Both the videos talked about making websites that look great and work well, which seems like a big deal for jobs where you do stuff with websites. Learning these things are helpful for being good at making websites and finding jobs in that area.
 
+## Week 6
+### Learning Activities & Resources
+In this week, I explored video tutorials on integrating Trello with Slack, setting up Slack notifications for Git commits, and establishing working agreements in software development teams. The tutorials provided practical step-by-step guidance for tool integration and offered insights into creating effective team agreements for improved collaboration. Additionally, the lecture document highlighted the utilization of Trello, GitHub, and Slack for project management, emphasizing the importance of clear team communication and expectations. These resources deepened my understanding of leveraging tools and team agreements to enhance project management and collaboration.
+
+Resources
+https://www.swarmia.com/blog/agile-team-working-agreements/?utm_term=team%20agreement%20template%20agile&utm_campaign=SRH-WA-ANZ-EN&utm_source=adwords&utm_medium=ppc&hsa_acc=6644081770&hsa_cam=16607508130&hsa_grp=137535982991&hsa_ad=588482363676&hsa_src=g&hsa_tgt=kwd-1940170918739&hsa_kw=team%20agreement%20template%20agile&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA4Y-sBhC6ARIsAGXF1g4sfvFpw2Qy92Frv2tdkce-NJRiDX2Ad4-OO6y6xFMVsjJoPPNBFFUaApvBEALw_wcB
+https://learn.jcu.edu.au/ultra/courses/_167795_1/outline/edit/document/_7613501_1?courseId=_167795_1&view=content
+https://www.youtube.com/watch?v=0Kf7r3vKYtw&ab_channel=GForceNorth
+https://www.youtube.com/watch?v=oMU9MUIXPyI&ab_channel=RainbowTalks
+https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/having-daily-stand-up-meetings-2
+
+### Estimated Hours
+4 hours
+### Content Insights
+In my exploration of various resources, including videos and detailed guides, I learned about smoothly connecting tools and building strong teamwork in software development. The videos walked me through steps to link Trello with Slack and set up Slack alerts for Git commits, giving me practical tips for making these connections work. Alongside these technical tips, the guides explained the importance of clear team rules, known as working agreements. They stressed how these rules help teams work well together and introduced tools like Trello, GitHub, and Slack for smoother teamwork. The materials highlighted the need to always improve these rules and keep them clear and easy to understand, ensuring everyone can work together effectively in software development teams.
+### Career/Employability/Learning Insights
+These resources shared important things for doing well in a career. Learning how to use tools like Trello, Slack, and GitHub can make me better at my job. Understanding how teams agree on things and talk together helps you work better with others. It's also good to keep finding ways to make work easier and show that you're good at taking charge and making things better. Knowing how to handle projects well is also really useful. Overall, these tips help you be better at your job by showing you how to adapt, work together, keep learning, talk well, and manage projects efficiently.
+
 # Template
 ## Week 4
 ### Learning Activities & Resources
