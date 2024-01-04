@@ -143,6 +143,27 @@ In my exploration of various resources, including videos and detailed guides, I 
 ### Career/Employability/Learning Insights
 These resources shared important things for doing well in a career. Learning how to use tools like Trello, Slack, and GitHub can make me better at my job. Understanding how teams agree on things and talk together helps you work better with others. It's also good to keep finding ways to make work easier and show that you're good at taking charge and making things better. Knowing how to handle projects well is also really useful. Overall, these tips help you be better at your job by showing you how to adapt, work together, keep learning, talk well, and manage projects efficiently.
 
+## Week 7
+### Learning Activities & Resources
+This week's focus was particularly on learning and utilizing PHP with WP. The resources provide a comprehensive foundation in PHP programming, from basic syntax to practical implementation in web development, especially in enqueuing and registering style in WordPress. The YouTube tutorial, in particular, was an excellent starting point, offering hands-on learning and practical demonstrations of PHP's capabilities. The LinkedIn Learning courses and WordPress documentation are anticipated to deepen and expand my understanding of PHP development and its integration into various web-based projects.
+Additionally, the resource, The Advice Shop site, from Prac 07 - PHP is a great example demonstrating the features, structures, and coding of the PHP programming.
+
+Resources
+https://www.youtube.com/watch?v=ZdP0KM49IVk&ab_channel=JakeWright
+https://www.linkedin.com/learning/learning-php-4
+https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
+https://developer.wordpress.org/reference/functions/wp_enqueue_style/
+https://developer.wordpress.org/reference/functions/wp_register_style/
+
+https://github.com/lindsaymarkward/theadviceshop
+
+### Estimated Hours
+5 hours
+### Content Insights
+The resources I've explored greatly helped me understand PHP basics. The YouTube tutorial by Jake Wright was hands-on, covering syntax, variables, and data types. It explained if/else statements and looping through arrays with for each. Handling forms and user input with PHP scripts became clearer. The LinkedIn Learning courses offer structured learning paths for deeper PHP and potentially MySQL integration. WordPress Developer Documentation on stylesheets in WordPress themes/plugins offered practical insights. These resources built a strong foundation in PHP, making web development concepts more accessible and practical.
+### Career/Employability/Learning Insights
+Overall, the insights from this week contribute to my employability prospects in terms of learning skill development in the field of web development and programming, especially in PHP programming. Additionally, insights from the WordPress Developer Documentation have broadened my skill set, particularly in WordPress theme/plugin utilization. Altogether, I feel like these resources laid a robust foundation for ongoing learning and career advancement in the field of web development and programming.
+
 # Template
 ## Week 4
 ### Learning Activities & Resources
