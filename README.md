@@ -1,4 +1,44 @@
 # LearningJournal-CP3402-JCU
+
+## Assignment CP3402 - Assignment 1 - Startup
+### Assignment Activities
+The assignment activities started with learning the basic steps for using both WordPress and Joomla 5 CMS through various sources provided by the lecturer and on the learning platform, YouTube. Then I began with conceptualizing ideas for my startup websites which aligns with my interest, in sport and interior design. Then I drafted website content, design structure, and target audience identification accordingly. 
+I chose WordPress and Joomla 5 since the lecturer recommended it. This was a great decision, since the next assignment will be done using WordPress giving me an early understanding of its respective features, and Joomla 5 to understand the availability of plugins/extensions, features, scalability, and community support in the different CMS. 
+Finally, I maintained a consistent structure, layout, and navigation between WordPress and Joomla. Incorporate various media types like text, images, and videos to enhance user engagement, and include at least one additional plugin or extension beyond the base installation in each CMS to demonstrate their customization capabilities.
+Overall, by completing this assignment using WordPress and Joomla, I gained a comprehensive, more or less, understanding of two different CMSs while simultaneously developing functional and engaging websites for the startup venture.
+
+### Resources
+Most of the images on both sites are from https://www.pexels.com/search/Interior%20design/
+Multiple plugins from online sources:
+https://www.joomshaper.com/joomla-extensions/sp-easyimagegallery
+https://www.joomshaper.com/joomla-extensions/sp-simple-portfolio
+https://www.tassos.gr/joomla-extensions/convert-forms
+https://www.joomla51.com/demo/0163/index.php/module-extensions/call-to-action-module
+https://wordpress.org/plugins/remove-footer-credit/
+etc.
+
+### Estimated Hours
+7 hours not including time spent during weekly lectures and practicals. 
+
+### Content Insights
+There are a few content insights I found during the time I spent on this assignment. In the process of developing two websites for this startup project, the process started with selecting distinctive business concepts and identifying the target audience while underscoring the importance of aligning my ideas with the intended market. 
+The rules set with utilizing a minimum of two different content management systems was a key learning point for me. It allows me to understand the diverse platforms from the beginner entry to more or less a comprehensive understanding level. As the websites continued to take shape, maintaining intended structures while integrating varieties of plugins and media types was quite a crucial aspect since it emphasized the significance of engaging content with the flow of interest on the website through content.
+Testing the UX highlighted the need for mobile-friendly interfaces which marks the important aspects of utilizing CMSs since, in the previous module, CP1406 Web Design and Development, the primary focus was on developing an efficient HTML and CSS code but, as said, utilizing CMSs done it all more easily. The same can be said for intuitive navigation and accessibility features. 
+Additionally, ensuring consistent branding elements across both websites illuminated the importance of visual identity in brand representation.
+
+### Career/Employability/Learning Insights
+By building two different websites using WordPress and Joomla, I learned that it isn't just about creating web pages—it's a chance to learn some cool stuff with efficiency, different than crafting HTML, CSS, PHP, Javascript, etc. I get to become better at using these special website tools, which can open doors to jobs where I can utilize them to make websites. Overall, it's like learning how to build two kinds of houses. 
+In addition, I also learned how to make websites that people like to use with consideration of UX in mind. Lastly, I experienced the process of extensively exploring the community where people have made their remarks and shared in the form of great plug-ins and extensions to this CMS community, hence, I got to look up various interesting plug-ins that make CMSs even better.
+
+## Assignment 2 - Version Control 
+https://github.com/Huang-Yuanhang/Slack/tree/main
+
+### Version Control (Screenshots)
+| Version 1 | Version 2 | Version 3 |
+|:----------------------:|:---------------------------:|:---------------------:|
+| <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%201%20-%20first%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%202%20-%20theme%20creation.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20version%203%20-%20full%20site.gif" width="100px" /> |
+| [First Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%201) | [Theme Creation](https://github.com/Huang-Yuanhang/Slack/tree/main/version%202) | [Full Site](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse) |
+
 ## Week 1 
 ### Learning Activities & Resources
 This week I started with attempts to set up Web hosting services from the given list of resources. Unfortunately, the free SiteGround offer has been used up for the CP1406 in the previous term, I decided to set up repositories for weekly learning journals and web hosting for a static simple website for this week's practical. However, I have to take note that, for any upcoming practical assignments where database and/or PHP are required, I may have to set up an additional account for the appropriate web hosting service.
