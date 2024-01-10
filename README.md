@@ -204,6 +204,50 @@ The resources I've explored greatly helped me understand PHP basics. The YouTube
 ### Career/Employability/Learning Insights
 Overall, the insights from this week contribute to my employability prospects in terms of learning skill development in the field of web development and programming, especially in PHP programming. Additionally, insights from the WordPress Developer Documentation have broadened my skill set, particularly in WordPress theme/plugin utilization. Altogether, I feel like these resources laid a robust foundation for ongoing learning and career advancement in the field of web development and programming.
 
+## Week 8
+### Learning Activities & Theory & Resources
+#### Task for this week
+For this week, do some kind of "learning experiment" (or experiments). Use some form of the scientific method with a theory and test. <br>
+Determine a theory you have about a learning activity or method that you think might help you learn better than in previous weeks. This must be testable. <br>
+Determine a test that would allow you to prove or disprove your theory. <br>
+Explain the theory and test in the "Learning Activities" section in sufficient detail that someone else could read, understand and follow your test(s).
+
+#### Theory
+My theory is that using a combination of video tutorials and hands-on coding will enhance my understanding and retention of WordPress theme development concepts more effectively than using only one of these methods.
+
+#### Test Methodology
+Phase 1 (Control): Allocated suitable period, use only written documentation and text-based tutorials for learning WordPress theme development. <br>
+Phase 2 (Experiment): For the following suitable time limit, supplement the text-based tutorials with relevant video tutorials and apply the concepts through hands-on coding exercises.
+
+#### Resources
+* WordPress Official Documentation
+* Text-based tutorials from reputable sources (WPBeginner, Codecademy)
+* YouTube Video tutorials
+  * https://www.youtube.com/watch?v=eshjwzu2JOc&t=6s
+  * https://www.youtube.com/watch?v=Mx_PAGA1Ueg
+  * https://www.youtube.com/watch?v=3hCMpnok2Kw
+  * https://www.youtube.com/watch?v=xN7x_-A97GY&t=242s
+  * https://www.youtube.com/watch?v=0_HeL-fKXho&t=189s
+  * https://www.youtube.com/watch?v=_MClmXiYCSw&t=947s
+  * https://www.youtube.com/watch?v=3JWhgPFPsOk
+  * https://www.youtube.com/watch?v=a7_WFUlFS94
+  * many more
+* Local development environment (XAMPP)
+* Code editor (Visual Studio Code)
+
+### Estimated Hours
+Phase 1 (Control): 5 hours (reading and understanding text-based tutorials) <br>
+Phase 2 (Experiment): 6 hours (5 hours watching video tutorials + 5 hours hands-on coding)
+### Content Insights
+Phase 1: Text-based tutorials provided a solid theoretical understanding. However, certain complex concepts like theme hierarchy and hooks in WordPress were challenging to grasp fully without visual aids or practical examples. <br>
+Phase 2: Video tutorials made complex concepts clearer, especially when the instructor demonstrated them in a live coding environment. Hands-on coding allowed for immediate application of learned concepts, leading to better retention and understanding.
+### Career/Employability/Learning Insights
+* This experiment highlighted the importance of adapting learning styles to the subject matter. In the context of web development, combining visual learning (videos) with practical application (coding) can significantly enhance comprehension.
+* The hands-on approach in Phase 2 was instrumental in developing practical skills. This not only solidifies theoretical knowledge but also prepares for real-world application, an essential aspect for employability in this industry.
+* This experiment underscores the need for continuous learning and flexibility in adapting to new resources and methods.
+### Observation from this theory
+the combination of multiple learning modalities, especially incorporating video tutorials and hands-on practice, proved to be a more effective approach in understanding and applying WordPress development concepts. This experiment will shape my future learning strategies in my ongoing professional development in web technologies.
+
 # Template
 ## Week 4
 ### Learning Activities & Resources
